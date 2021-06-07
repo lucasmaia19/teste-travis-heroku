@@ -11,6 +11,6 @@ public class HelloWorld {
 
 	@GetMapping
 	public ResponseEntity<String> helloWorld() {
-		return ResponseEntity.ok("Ola-enfermeira!!");
+		return ResponseEntity.ok("Ola-Trevis!!");
 	}
 }
