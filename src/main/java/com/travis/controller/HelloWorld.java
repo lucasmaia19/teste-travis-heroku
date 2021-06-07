@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("Olás-enfermeira")
+@RequestMapping("Olá-enfermeira")
 public class HelloWorld {
 
 	@GetMapping
