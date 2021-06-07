@@ -7,5 +7,5 @@ before_install:
 deploy:
   provider: heroku
   api_key:
-    - secure: $SECURE_KEY
-  app: $APP
+    secure: Q56mW5SUOqTHNRM1igTGfGMAZEBaTT3boi+Q9FnxFWUbwwCZPR2l/EzZY1yfL9cPaLhltnaNL4v2UsLGkMi250oyi0wcJYgmFraoDWoMF5fSW4+IzQ6p87JeVHsDIDwkgInsCNPyp6VWphpWjPhYVAg8F06g3twlCy645MD01ffuXBBo7MIEo2VXeREqZy8Uhww1Dpp4FGRZ1thj/jrgOSLKce+7TvnRk1nurpnVZ80wRU7XFY3n/FwAuPwtf9ZOFG1UmnQDUI3TXo3NjrXhexBk7GGiZ5Gy+f856h6TodnjwRID21BtT6hoOMuNMNerke6JBJe/o6lhlgc/w5xWwKRLnrkzsOOhF2Qo/kFGV3d2spmktgYHp4suCbik1RW2eFBuBwwU9IIjl+qIrs86Ke/No0JMaQeYRvP5n2NGK7B7QCshCkv9QW9lGVMjQMbRPT6H7yrgjuWZoDB9ytkt6qOnmOVfiIz+aYmlgKFvJFEd3ajZ5uExrfgabApre3fpdnYnQNkT/2b00E697fsB/iDfOqrBcT3Cf/YskWkzEC4mnGk+UvQMW/jEubh3IW4diF9WsC0gPleNgcsfDKSjD/F9t1Ja/k9Pv7ib1Gad3DMjPPQTcP5a0i18PZJhw6IkSgjCJzS4hzJfqPeBtf08A5dP4Gn/AnwPqkkSdRXtnVM=
+  app: "$APP"
