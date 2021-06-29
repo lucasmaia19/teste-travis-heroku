@@ -2,6 +2,8 @@
 
 link tutorial: https://medium.com/@vitor.alves/integra%C3%A7%C3%A3o-cont%C3%ADnua-e-deploy-automatizado-no-heroku-com-travis-ci-spring-boot-api-da96a32b93ab
 
+link tutorial travis: https://docs.travis-ci.com/user/deployment/heroku/
+
 #OBS: Ao inserir token heroku ultilizar:
 
 ```
